@@ -1,5 +1,7 @@
 # Last Slide
 
+https://last-slide.onrender.com
+
 A skip card for the lecture PDF you never opened.
 
 ![](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/gt9vylaaup4jhgij8gkx.png)
@@ -189,6 +191,6 @@ Last Slide builds as a static website. All LLM inference remains on the user's l
 
 ---
 
-## License
+## Credit
 
-[MIT](LICENSE)
+Built for the [Hacktoberfest Open-Source AI Challenge](https://dev.to/challenges/hacktoberfest-week3-2026-10-19), week 3: Slow and Steady.
